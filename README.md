@@ -5,7 +5,7 @@
 <details>
   <summary>AdonisJS v6 Docs</summary>
   <ul>
-<li><a>Pull Request</a></li>
+<li><a href='https://github.com/adonisjs/v6-docs/pull/162'>Pull Request</a></li>
   </ul>
 </details>
 
