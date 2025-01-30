@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Open Source
+### Open Source
 
 <details>
   <summary>AdonisJS v6 Docs</summary>
