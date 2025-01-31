@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Open Source
 
 <details>
